@@ -1,4 +1,4 @@
-# CS-IA (Fluent Flow)
+# FluentFlow
 
 This website was created to help an expat living in a foreign country improve his conversational skills and better integrate with his colleagues, many of whom do not speak fluent English. The client preferred an interactive and practical approach to language learning, emphasizing speaking and sentence construction over rote memorization.  
 
