@@ -1,11 +1,11 @@
 # FluentFlow
 
-## 📚 Introduction 📚
+## 📚 &nbsp;&nbsp;&nbsp;**Introduction**&nbsp;&nbsp;&nbsp; 📚
 **FluentFlow** is a website designed to help expats improve their conversational skills and integrate better with colleagues, especially in environments where fluent English is uncommon. The platform prioritizes an interactive, practical approach to language learning, focusing on speaking and sentence construction rather than rote memorization.
 
 ---
 
-## 🎨 Features 🎨
+## 🎨 &nbsp;&nbsp;&nbsp;**Features**&nbsp;&nbsp;&nbsp; 🎨
 1. **Interactive Conversations**  
    - Simulates realistic conversations in a foreign language.  
    - Helps users practice sentence construction and grammar through dynamic question-and-answer exchanges.  
@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Technical Overview 🛠️
+## 🛠️ &nbsp;&nbsp;&nbsp;**Technical Overview**&nbsp;&nbsp;&nbsp; 🛠️
 - **Backend**: Built with **Python** and the **Flask framework**, ensuring:  
   - Cross-platform compatibility for seamless operation on any OS.  
   - Flexibility to expand features as required.  
@@ -33,5 +33,5 @@
 
 ---
 
-## 🚀 Motivation 🚀
+## 🚀 &nbsp;&nbsp;&nbsp;**Motivation**&nbsp;&nbsp;&nbsp; 🚀
 This project combines conversational AI with a user-friendly design to create a tailored language-learning tool. FluentFlow addresses the client’s need for a practical and interactive solution to improve speaking skills and foster better workplace integration in a foreign country.
