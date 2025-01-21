@@ -1,11 +1,11 @@
 # FluentFlow
 
-## 🌍 Introduction 🌍
+## 📚 Introduction 📚
 **FluentFlow** is a website designed to help expats improve their conversational skills and integrate better with colleagues, especially in environments where fluent English is uncommon. The platform prioritizes an interactive, practical approach to language learning, focusing on speaking and sentence construction rather than rote memorization.
 
 ---
 
-## 💡 Features 💡
+## 🎨 Features 🎨
 1. **Interactive Conversations**  
    - Simulates realistic conversations in a foreign language.  
    - Helps users practice sentence construction and grammar through dynamic question-and-answer exchanges.  
