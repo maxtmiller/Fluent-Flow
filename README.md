@@ -36,8 +36,8 @@
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd FluentFlow
+   git clone https://github.com/maxtmiller/Fluent-Flow.git
+   cd Fluent-Flow
    ```
 2. Install dependencies:
 
